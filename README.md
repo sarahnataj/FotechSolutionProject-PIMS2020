@@ -3,17 +3,9 @@
 
 ### Project name: Traffic monitoring with distributed acoustic sensing
 
-The following repository contains the work done by team Fotech during
-the month of August in the Summer 2020 PIMS Math^Industry Workshop and 
-is geared towards making progress on the industrial problem given by
-Matt McDonald in the abstract below. The team members involved in this
-project are Emily Korfanty, Jaeun Park, Jane Zhang, Sarah Nataj, Boya Peng, 
-and Brian Chan. Our industrial advisor for this project is Matt McDonald 
-and our academic advisor for this project is Parimala Thulasiraman. 
+The following repository contains the work done by team Fotech during the month of August in the Summer 2020 PIMS Math^Industry Workshop. The main goals addressed in this repository are outlined by Matt McDonald in the abstract below, and the members of teach Fotech are Emily Korfanty, Jaeun Park, Jane Zhang, Sarah Nataj, Boya Peng, and Brian Chan. Our industrial advisor for this project is Matt McDonald and our academic advisor for this project is Parimala Thulasiraman. 
 
-This project is geared towards smart city applications with a specific
-focus on analysing the data collected from fibre optic acoustic sensing 
-technologies.
+This project is geared towards smart city applications with a specific focus on analysing the data collected from fibre optic acoustic sensing technologies.
 
 Matt McDonald, Chief Technology Officer, Fotech Solutions
 

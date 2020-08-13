@@ -6,4 +6,4 @@ to plot the data in several ways. We made use of the numpy, pandas, and mathplot
 data that we analysed from the registry was in a CSV file. The main file is Housing_Price_Index_PythonProject.ipynb.
 
 The contributors to this project were Emily Korfanty, Jaeun Park, Jane Zhang, Sarah Nataj, Boya Peng,
-and Brian Chan. We also thank Drs Ian Allison and David Colliander for their advices and helpful insights during the project.
+and Brian Chan. We also thank Drs Ian Allison and James Colliander for their advices and helpful insights during the project.

@@ -11,6 +11,11 @@ Matt McDonald, Chief Technology Officer, Fotech Solutions
 
 Parimala Thulasiraman, Professor, University of Manitoba
 
+Ying Ying Liu, University of Manitoba
+
+Emily Korfanty, University of Victoria
+
+
 Ying Ying Liu, Ph.D. student, University of Manitoba
 
 Emily Korfanty, M.Sc. student, University of Victoria
